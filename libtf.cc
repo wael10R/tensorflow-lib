@@ -80,7 +80,7 @@ extern "C" {
         // resolver.AddBatchToSpaceNd();
         // resolver.AddCallOnce();
         // resolver.AddCeil();
-        // resolver.AddConcatenation();
+         resolver.AddConcatenation();
         resolver.AddConv2D();
         // resolver.AddCos();
         // resolver.AddCumSum();
